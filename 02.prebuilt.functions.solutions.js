@@ -27,7 +27,7 @@ function rounded() {
 
     let number = 10.335;
     let rounded = number.toFixed(2);
-
+000000000000000
     console.log("This is how the output should look");
     console.log( number + " rounded to 2 decimal places is " + rounded);
 
